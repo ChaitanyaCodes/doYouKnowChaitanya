@@ -1,4 +1,4 @@
-# doYouKnowChaitanya
+# doYouKnowChaitanya :thinking:
 
 An CLI App to get to know how much you know about Chaitanya Chanekar.
 
